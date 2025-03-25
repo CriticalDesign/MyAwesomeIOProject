@@ -10,6 +10,7 @@
             Console.WriteLine("IOT is my fave class ever!");
             Console.WriteLine("IOT is my fave class ever!");
             Console.WriteLine("IOT is my fave class ever!");
+            Console.WriteLine("I am in class right now!");
         }
     }
 }

@@ -5,6 +5,11 @@
         static void Main(string[] args)
         {
             Console.WriteLine("IOT is my fave class ever!");
+            Console.WriteLine("IOT is my fave class ever!");
+            Console.WriteLine("IOT is my fave class ever!");
+            Console.WriteLine("IOT is my fave class ever!");
+            Console.WriteLine("IOT is my fave class ever!");
+            Console.WriteLine("IOT is my fave class ever!");
         }
     }
 }
